@@ -1,10 +1,5 @@
-// let name = 'Hangyu Park'
-// console.log(name)
-
-// name = 'William'
-// console.log(name)
-
-const name = 'Hangyu Park'
+let name = null
 console.log(name)
 
-// name = 'william'
+let age
+console.log(age)
