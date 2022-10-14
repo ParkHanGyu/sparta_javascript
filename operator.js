@@ -13,23 +13,22 @@
 
 ///////////////////////////////////////////////////////////////////////////////////////////
 
-let count = 1
-const preCount = ++count
-console.log(`count: ${count}, preCount: ${preCount}`)
-
 // let count = 1
-// const preCount = count++
+// const preIncrement = ++count // count = count + 1 // const preIncrement = count
+// console.log(`count: ${count}, preIncrement: ${preIncrement}`) // count: 2, preIncrement: 2
+// let count = 1
+// const preCount = count++  // const postIncrement = count // count = count + 1
 // console.log(`count: ${count}, preCount: ${preCount}`)
 
 // const shirtsPrice = 100000
-// const shoesPrice = 80000
+// const pantsPrice = 80000
 // let totalPrice = 0
-// totalPrice += shirtsPrice
+// totalPrice += shirtsPrice // totalPrice = totalPrice + shirtsPrice 와 동일
 // console.log(totalPrice)
-// totalPrice += shoesPrice
+// totalPrice += pantsPrice // totalPrice = totalPrice + pantsPrice 와 동일 
 // console.log(totalPrice)
-// totalPrice -= shirtsPrice
-// console.log(totalPrice)
+// totalPrice -= shirtsPrice // totalPrice = totalPrice - shirtsPrice 와 동일
+// console.log(totalPrice) 
 
 ///////////////////////////////////////////////////////////////////////////////////////////
 
