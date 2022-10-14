@@ -13,9 +13,9 @@
 
 ///////////////////////////////////////////////////////////////////////////////////////////
 
-// let count = 1
-// const preCount = ++count
-// console.log(`count: ${count}, preCount: ${preCount}`)
+let count = 1
+const preCount = ++count
+console.log(`count: ${count}, preCount: ${preCount}`)
 
 // let count = 1
 // const preCount = count++
@@ -55,7 +55,7 @@
 // console.log('Javascript' === 'Javascript') // true
 // console.log('Javascript' === 'javascript') // 대소문자나 띄워쓰기도 다 정확히 일치해야 해요. 따라서 false
 
-const a = 200000
-const b = 100000
-let total = a + b
-console.log(`총 ${total * 0.8} 원에 물건을 구입합니다.`)
+// const a = 200000
+// const b = 100000
+// let total = a + b
+// console.log(`총 ${total * 0.8} 원에 물건을 구입합니다.`)
